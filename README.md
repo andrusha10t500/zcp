@@ -3,7 +3,7 @@ zcp - Zhora Copy Paste
 
 Для того что бы пользоваться программой, надо:
 
-$ git clone https://github.com/andrusha10t500/zcp.git
+$ git clone https://github.com/andrusha10t500/zcp.git <br />
 $ cd zcp
 $ make
 $ sudo cp zcp /usr/bin/zcp
