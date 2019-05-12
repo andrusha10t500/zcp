@@ -10,6 +10,6 @@ $ make <br />
 $ sudo cp zcp /usr/bin/zcp <br />
 
 <h3>пример использования:</h3>
-$ zcp '/home/user/video/Трансформеры Месть падших.2009.UHD.Blu-Ray.Remux.2160p.mkv' '/home/media/user/HDD/Трансформеры Месть падших.2009.UHD.Blu-Ray.Remux.2160p.mkv' <br />
+$ zcp '/home/user/video/Трансформеры Месть падших.2009.UHD.Blu-Ray.Remux.2160p.mkv' '/home/media/user/HDD/Трансформеры Месть падших.2009.UHD.Blu-Ray.Remux.2160p.mkv' <br /> <br />
 '/home/user/video/Трансформеры Месть падших.2009.UHD.Blu-Ray.Remux.2160p.mkv' -> '/home/media/user/HDD/Трансформеры Месть падших.2009.UHD.Blu-Ray.Remux.2160p.mkv' <br />
               0.16%
