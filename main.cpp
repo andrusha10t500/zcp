@@ -51,6 +51,6 @@ int main(int argc,char* args[])
  
     ifs.close();
     ofs.close();
- 
+    cout << "\n";
     return 0;
 }
