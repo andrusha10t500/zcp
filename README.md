@@ -4,9 +4,9 @@ zcp - Zhora Copy Paste
 Для того что бы пользоваться программой, надо:
 
 $ git clone https://github.com/andrusha10t500/zcp.git <br />
-$ cd zcp
-$ make
-$ sudo cp zcp /usr/bin/zcp
+$ cd zcp <br />
+$ make <br />
+$ sudo cp zcp /usr/bin/zcp <br />
 
 пример использования:
 $ zcp '/home/user/video/Трансформеры Месть падших.2009.UHD.Blu-Ray.Remux.2160p.mkv' '/home/media/user/HDD/Трансформеры Месть падших.2009.UHD.Blu-Ray.Remux.2160p.mkv'
