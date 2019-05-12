@@ -38,7 +38,6 @@ int main(int argc,char* args[])
     {
         ifs.read(buf, buf_size);
         ofs.write(buf, buf_size);
-        //cout << ofs.tellp() << "\n";
         printProgress(src_size,ofs.tellp());
     }
     
