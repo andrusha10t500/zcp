@@ -14,4 +14,4 @@ $ zcp '/home/user/video/Трансформеры Месть падших.2009.UH
 '/home/user/video/Трансформеры Месть падших.2009.UHD.Blu-Ray.Remux.2160p.mkv' -> '/home/media/user/HDD/Трансформеры Месть падших.2009.UHD.Blu-Ray.Remux.2160p.mkv' <br /><br />
               0.16%
 <img src="https://raw.githubusercontent.com/andrusha10t500/zcp/master/image.png">
-<u>не копирует директории!</u>
+<ins>не копирует директории!</ins>
